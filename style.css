@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(41, 33, 33, 0.479);
+}
+h1 {
+  color: rgb(255, 0, 0);
+  background-color: rgb(179, 80, 80);
+}
+h3 {
+  color: rgb(100, 86, 86);
+}
+a {color: rgb(0, 255, 0);
+    background-color: whitesmoke;
+}
+.come{background-color: white;
+color: coral;}
